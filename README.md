@@ -1,1 +1,1 @@
-gilsonjk/voar.git
+https://github.com/Gilsonjk/fly.git
